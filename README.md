@@ -4,6 +4,7 @@ This repo is an online multiplayer Samurai Sword viewer (for all legal intents a
 
 Game rules found [here](https://www.ultraboardgames.com/samurai-sword/game-rules.php)
 
+```
 Game Design:
 
                                     |-------------------------|
@@ -34,3 +35,4 @@ Game Design:
     | (Honor Points)(Resilience Points) |------------------|      |------------------|    |--------------------|
     |    |                    |
     |--------------------------
+```
